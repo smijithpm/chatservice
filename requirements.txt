@@ -1,0 +1,6 @@
+streamlit
+asyncio
+websockets
+json
+collections
+queue
